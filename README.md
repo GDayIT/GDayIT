@@ -14,10 +14,11 @@
 <br>
 
 <!-- Retro Neon Typing Animation lokal -->
-<img 
-    src="https://github.com/GDayIT/GDayIT/releases/download/image/retro_typing_cyberpunk.gif" 
-    style="max-width: 100%;" 
-    alt="Retro Neon Typing Animation" />
+<img src="https://github.com/GDayIT/GDayIT/releases/download/a%2B%2B/retro_typing_cyberpunk.gif"
+     style="max-width:100%;"
+     alt="Retro Neon Typing Animation" 
+/>
+
 
 <br>
 
