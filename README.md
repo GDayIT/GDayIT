@@ -99,6 +99,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="80" title="PHP"/>
 <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="80" title="MySQL"/>
 <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="80" title="MongoDB"/>
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" width="80" title="POSTMAN"/>
+
+<img src="https://img.icons8.com/color/96/000000/graphql.png" width="80" title="GraphQL"/>
+<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="80" title="Jenkins"/>
 </div>
 </details>
 
@@ -118,6 +122,7 @@
 <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="80" title="AWS"/>
 <img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="80" title="GCP"/>
 <img src="https://skillicons.dev/icons?i=azure" width="80" title="Azure"/>
+<img src="https://img.icons8.com/color/96/000000/github.png" width="80" title="GitHub Actions"/>
 </div>
 </details>
 
