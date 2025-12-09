@@ -15,7 +15,7 @@
 
 <!-- Retro Neon Typing Animation lokal -->
 <img 
-    src="https://github.com/GDayIT/GDayIT/releases/download/v1.0/retro_typing_cyberpunk.gif" 
+    src="https://github.com/GDayIT/GDayIT/releases/download/image/retro_typing_cyberpunk.gif" 
     style="max-width: 100%;" 
     alt="Retro Neon Typing Animation" />
 
