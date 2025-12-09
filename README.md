@@ -136,14 +136,33 @@
 <!-- Cybersecurity -->
 <img src="https://img.icons8.com/color/96/000000/cyber-security.png" width="80" title="Cybersecurity"/>
 <img src="https://img.icons8.com/color/96/000000/kali-linux.png" width="80" title="Kali Linux"/>
+  <!-- Nmap -->
   <img src="https://nmap.org/images/nmap-logo-256x256.png" width="80" title="Nmap"/>
-  <img src="https://img.icons8.com/color/96/000000/wireshark.png" width="80" title="Wireshark"/>
-  <img src="https://img.icons8.com/color/96/000000/metasploit.png" width="80" title="Metasploit"/>
+
+  <!-- Wireshark -->
+  <img src="https://www.wireshark.org/assets/icons/wireshark-fin@2x.png" width="80" title="Wireshark"/>
+
+  <!-- Metasploit -->
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="80"
+  title="Metasploit"/>
+
+  <!-- Burp Suite -->
+  <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" width="80" title="Burp Suite"/>
+
+  <!-- OWASP ZAP -->
   <img src="https://www.zaproxy.org/img/zap256x256.png" width="80" title="OWASP ZAP"/>
-  <img src="https://img.icons8.com/color/96/000000/snort.png" width="80" title="Snort"/>
-  <img src="https://img.icons8.com/color/96/000000/network-card.png" width="80" title="Tcpdump"/>
-  <img src="https://img.icons8.com/color/96/000000/password.png" width="80" title="Hydra"/>
-  <img src="https://img.icons8.com/color/96/000000/vulnerability.png" width="80" title="Nessus"/>
+
+  <!-- Kali Linux -->
+  <img src="https://www.kali.org/images/kali-logo.svg" width="80" title="Kali Linux"/>
+
+  <!-- Parrot OS -->
+  <img src="https://parrotsec.org/img/logo.png" width="80" title="Parrot OS"/>
+
+  <!-- Snort -->
+  <img src="https://www.snort.org/assets/SnortBadge.png" width="80" title="Snort"/>
+
+  <!-- pfSense -->
+  <img src="https://www.pfsense.org/img/logo-horizontal.png" width="80" title="pfSense"/>
 </div>
 </details>
 
