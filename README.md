@@ -166,6 +166,43 @@
 </div>
 </details>
 
+<br>
+
+<!-- Project Management & Agile -->
+<details open>
+<summary><b>Project Management & Agile</b></summary>
+<br>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/trello.svg" width="80" title="Kanban"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jira.svg" width="80" title="Scrum (Jira)"/>
+  <img src="https://img.icons8.com/color/96/000000/jira.png" width="80" title="Jira"/>
+</div>
+</details>
+<br>
+
+
+<!-- Tools & Productivity -->
+<details open>
+<summary><b>Tools & Productivity</b></summary>
+<br>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<!-- Office & Productivity -->
+<img src="https://img.icons8.com/color/96/000000/microsoft-office-2019.png" width="80" title="Office 365"/>
+
+<!-- Documentation / Scientific -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/latex.svg" width="80" title="LaTeX"/>
+<img src="https://www.svgrepo.com/show/373977/plantuml.svg" width="80" title="PlantUML"/>
+
+
+
+
+<!-- Mockups / UI/UX -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" width="80" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobexd.svg" width="80" title="Adobe XD"/>
+
+</div>
+</details>
 <br><br>
 
 <!-- Stats -->
