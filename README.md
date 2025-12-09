@@ -14,8 +14,7 @@
 <br>
 
 <!-- Retro Neon Typing Animation lokal -->
-![Retro Neon Typing](https://raw.githubusercontent.com/GDayIT/GDayIT/main/assets/retro_typing_cyberpunk-ezgif.com-optimize.gif)
-
+![Retro Neon Typing](https://raw.githubusercontent.com/GDayIT/GDayIT/main/assests/retro_typing_cyberpunk-ezgif.com-optimize.gif)
 
 
 
