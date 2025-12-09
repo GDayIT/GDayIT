@@ -15,7 +15,7 @@
 
 <!-- Retro Neon Typing Animation lokal -->
 <img
-  src="assets/retro_typing_cyperpunk.gif"
+  src="assets/retro_typing_cyberpunk.gif"
   style="max-width: 100%;"
   alt="Retro Neon Typing Animation"
 />
