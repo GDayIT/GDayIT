@@ -15,10 +15,10 @@
 
 <!-- Retro Neon Typing Animation lokal -->
 <img
-  src="assets/retro_typing_cyberpunk.gif"
+  src="https://github.com/user-attachments/assets/df23fbeb-79ad-4607-9568-772f8360657b"
   style="max-width: 100%;"
   alt="Retro Neon Typing Animation"
-/>
+/>>
 
 <br>
 
