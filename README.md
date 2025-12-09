@@ -15,7 +15,7 @@
 
 <!-- Retro Neon Typing Animation lokal -->
 <img
-  src="https://github.com/user-attachments/assets/df23fbeb-79ad-4607-9568-772f8360657b"
+  src="https://github.com/user-attachments/assets/7dc875db-19b6-410d-9db5-d1b1aafd9f8e"
   style="max-width: 100%;"
   alt="Retro Neon Typing Animation"
 />>
