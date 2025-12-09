@@ -153,13 +153,11 @@
   <img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/zap/src/main/resources/resource/zap256x256.png"
   width="80" title="OWASP ZAP"/>
 
-  <!-- Snort -->
-  <img src="https://img.shields.io/badge/Snort-IDS-FF6C37?style=for-the-badge&logo=snort&logoColor=white"
-  title="Snort"/>
+<!-- Snort - Shield Badge -->
+  <img src="https://img.shields.io/badge/Snort-IDS/IPS-red?style=for-the-badge" width="120" title="Snort IDS/IPS"/>
 
-  <!-- pfSense -->
-  <img src="https://img.shields.io/badge/pfSense-Firewall-212121?style=for-the-badge&logo=pfsense&logoColor=white"
-  title="pfSense"/>
+  <!-- pfSense - Shield Badge -->
+  <img src="https://img.shields.io/badge/pfSense-Firewall-blue?style=for-the-badge" width="140" title="pfSense Plattform (firewall + IDS/IPS mit snort)"/>
 </div>
 </details>
 
