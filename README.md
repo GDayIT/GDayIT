@@ -136,6 +136,14 @@
 <!-- Cybersecurity -->
 <img src="https://img.icons8.com/color/96/000000/cyber-security.png" width="80" title="Cybersecurity"/>
 <img src="https://img.icons8.com/color/96/000000/kali-linux.png" width="80" title="Kali Linux"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="80" title="Nmap"/>
+  <img src="https://img.icons8.com/color/96/000000/wireshark.png" width="80" title="Wireshark"/>
+  <img src="https://img.icons8.com/color/96/000000/metasploit.png" width="80" title="Metasploit"/>
+  <img src="https://www.zaproxy.org/img/zap256x256.png" width="80" title="OWASP ZAP"/>
+  <img src="https://img.icons8.com/color/96/000000/snort.png" width="80" title="Snort"/>
+  <img src="https://img.icons8.com/color/96/000000/network-card.png" width="80" title="Tcpdump"/>
+  <img src="https://img.icons8.com/color/96/000000/password.png" width="80" title="Hydra"/>
+  <img src="https://img.icons8.com/color/96/000000/vulnerability.png" width="80" title="Nessus"/>
 </div>
 </details>
 
