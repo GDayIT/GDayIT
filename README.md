@@ -146,7 +146,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=GDayIT&show_icons=true&bg_color=1E3A8A&text_color=FFFFFF&icon_color=9333EA&title_color=9333EA&hide_border=true" width="450"/>
+           <img src="https://github-readme-stats.vercel.app/api?username=GDayIT&show_icons=true&bg_color=1E3A8A&text_color=FFFFFF&icon_color=9333EA&title_color=9333EA&hide_border=true&include_all_commits=true&count_private=false&theme=radical" width="450"/>
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GDayIT&background=1E3A8A&stroke=9333EA&ring=9333EA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true" width="450"/>
