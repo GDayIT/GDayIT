@@ -13,11 +13,11 @@
 
 <br>
 
-<!-- Typing Animation -->
+<!-- Retro Neon Typing Animation -->
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=800&color=FF00FF,00FFFF&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer/Engineer+%7C+Java+%26+Python+%26+C/C%2B%2B;Kotlin+%26+JavaScript/TypeScript+%26+SQL;Rust+%26+Go+%26+Bash/Shell-Scripting+%7C+API+%26+Backend;Software+Architecture+%7C+Clean+Code+%7C+Microservices;Network+%26+Infrastructure+%7C+TCP%2FIP+Routing+%26+Security;Linux+%7C+Servers+%26+Cloud+Virtualization;DevOps+%7C+CI%2FCD+Automation+%26+Unit+Tests;Version+Control+%7C+Git+%26+Branching;Code+Reviews+%7C+Clean+Code+%26+Teamwork;Cloud+%26+Containers+%7C+Docker+%26+Kubernetes+%26+AWS/GCP/Azure;Problem-Solving+%26+Architecture+Thinking+%7C+Scalable+Systems;Robotics+%7C+Hardware-Software+Integration+%26+Automation;Cybersecurity+%7C+Secure+Design+%26+Threat+Awareness;Soft+Skills+%7C+Teamwork+Leadership+Problem-Solving;Always+Learning+%26+Innovating"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer/Engineer+%7C+Java+%26+Python+%26+C/C%2B%2B;Kotlin+%26+JavaScript/TypeScript+%26+SQL;Rust+%26+Go+%26+Bash/Shell-Scripting+%7C+API+%26+Backend;Software+Architecture+%7C+Clean+Code+%7C+Microservices;Network+%26+Infrastructure+%7C+TCP%2FIP+Routing+%26+Security;Linux+%7C+Servers+%26+Cloud+Virtualization;DevOps+%7C+CI%2FCD+Automation+%26+Unit+Tests;Version+Control+%7C+Git+%26+Branching;Code+Reviews+%7C+Clean+Code+%26+Teamwork;Cloud+%26+Containers+%7C+Docker+%26+Kubernetes+%26+AWS/GCP/Azure;Problem-Solving+%26+Architecture+Thinking+%7C+Scalable+Systems;Robotics+%7C+Hardware-Software+Integration+%26+Automation;Cybersecurity+%7C+Secure+Design+%26+Threat+Awareness;Soft+Skills+%7C+Teamwork+Leadership+Problem-Solving;Always+Learning+%26+Innovating&color=00FF00,00FFA0,00FFFF,9F00FF,FF00FF,66FFCC,33FFAA"
   style="max-width: 100%;"
-  alt="Typing SVG"
+  alt="Retro Neon Typing SVG"
 />
 
 <br>
