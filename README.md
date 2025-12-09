@@ -76,6 +76,7 @@
 <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="80" title="Java"/>
 <img src="https://img.icons8.com/color/96/000000/python.png" width="80" title="Python"/>
 <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="80" title="C++"/>
+  <img src="https://img.icons8.com/color/96/000000/c-programming.png" width="80" title="C"/>
 <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="80" title="C#"/>
 <img src="https://img.icons8.com/color/96/000000/kotlin.png" width="80" title="Kotlin"/>
 <img src="https://img.icons8.com/color/96/000000/typescript.png" width="80" title="TypeScript"/>
