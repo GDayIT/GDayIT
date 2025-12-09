@@ -150,19 +150,16 @@
   <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" width="80" title="Burp Suite"/>
 
   <!-- OWASP ZAP -->
-  <img src="https://www.zaproxy.org/img/zap256x256.png" width="80" title="OWASP ZAP"/>
-
-  <!-- Kali Linux -->
-  <img src="https://www.kali.org/images/kali-logo.svg" width="80" title="Kali Linux"/>
-
-  <!-- Parrot OS -->
-  <img src="https://parrotsec.org/img/logo.png" width="80" title="Parrot OS"/>
+  <img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/zap/src/main/resources/resource/zap256x256.png"
+  width="80" title="OWASP ZAP"/>
 
   <!-- Snort -->
-  <img src="https://www.snort.org/assets/SnortBadge.png" width="80" title="Snort"/>
+  <img src="https://img.shields.io/badge/Snort-IDS-FF6C37?style=for-the-badge&logo=snort&logoColor=white"
+  title="Snort"/>
 
   <!-- pfSense -->
-  <img src="https://www.pfsense.org/img/logo-horizontal.png" width="80" title="pfSense"/>
+  <img src="https://img.shields.io/badge/pfSense-Firewall-212121?style=for-the-badge&logo=pfsense&logoColor=white"
+  title="pfSense"/>
 </div>
 </details>
 
