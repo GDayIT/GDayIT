@@ -211,7 +211,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GDayIT&background=1E3A8A&stroke=9333EA&ring=9333EA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true" width="450"/>
+      <img src="https://streak-stats.demolab.com/?user=GDayIT&background=1E3A8A&stroke=9333EA&ring=9333EA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true" width="450"/>
     </td>
   </tr>
 </table>
