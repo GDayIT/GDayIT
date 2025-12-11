@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Kontakt – GDayIT</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Kontakt</h1>
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="about.html">About</a> |
+            <a href="contact.html">Kontakt</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Schreib mir eine Nachricht!</h2>
+            <p>Du kannst mich per E-Mail kontaktieren oder über Social Media. Ich freue mich auf dein Feedback!</p>
+        </section>
+
+        <section>
+            <h3>Kontaktinformationen</h3>
+            <ul>
+                <li>Email: <a href="mailto:info@gdayit.de">info@gdayit.de</a></li>
+                <li>GitHub: <a href="https://github.com/GDayIT" target="_blank">GDayIT</a></li>
+                <li>Twitter: <a href="https://twitter.com/GDayIT" target="_blank">@GDayIT</a></li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Kontaktformular (optional)</h3>
+            <form action="https://formspree.io/f/yourformid" method="POST">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">E-Mail:</label>
+                <input type="email" id="email" name="_replyto" required>
+
+                <label for="message">Nachricht:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit">Senden</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 GDayIT</p>
+    </footer>
+</body>
+</html>
