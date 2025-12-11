@@ -14,11 +14,28 @@
 </style>
 </head>
 <body>
-
-<!-- Header Animation -->
-<div class="section">
+  
+<div class="header-section">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A,1E3A8A,6366F1&height=260&section=header&text=Dimitrios%20Georgiou&desc=GDayIT%20·%20Software%20Developer&fontSize=65&animation=fadeIn&fontColor=FFFFFF" alt="Cyberpunk Header">
 </div>
+
+<style>
+.header-section {
+  width: 100vw;          /* gesamte Bildschirmbreite */
+  height: 100vh;         /* gesamte Bildschirmhöhe */
+  overflow: hidden;      /* nichts soll rausragen */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0F172A; /* Fallback */
+}
+
+.header-section img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;     /* Bild skaliert, ohne das Seitenverhältnis zu verzerren, füllt den Container */
+}
+</style>
 
 <!-- Intro -->
 <div class="section">
