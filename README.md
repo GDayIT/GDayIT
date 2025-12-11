@@ -24,7 +24,7 @@
 <p style="font-size: 18px;">
 <b>📍 Germany</b><br>
 <b>💼 Working at:</b> Becker Robotics<br>
-<b>🌐 Website:</b> <a href="coming soon!">coming soon!</a>
+<b>🌐 Website:</b> <a href="https://gdayit.github.io/GDayIT/">PECTURE WEBSITE!</a>
 </p>
 
 <br>
