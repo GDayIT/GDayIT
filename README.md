@@ -209,7 +209,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=GDayIT&background=1E3A8A&stroke=9333EA&ring=9333EA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true" width="450"/>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=GDayIT&theme=burnt-neon&hide_border=true&border_radius=20&mode=weekly&border=EBB826&background=45%2C8F36EBD2%2CEB5431C2&stroke=EB5454&ring=EBB02B&fire=66EBEA&currStreakNum=2324A5&sideNums=0822BC&currStreakLabel=3F43AD&sideLabels=FF9FF3&dates=9ED2EB&excludeDaysLabel=110000" alt="GitHub Streak" width="900" /></a> 
     </td>
   </tr>
 </table>
