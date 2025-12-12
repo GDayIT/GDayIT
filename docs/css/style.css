@@ -7,18 +7,33 @@ a { color: #6366F1; text-decoration: none; }
 a:hover { text-decoration: underline; }
 </style>
 
-<style>
-.header-section {
-  width: 100%;          /* volle Breite */
-  overflow: hidden;     /* nichts soll überstehen */
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+
+/* --- Stylish Cyberpunk Footer --- */
+.footer {
+    margin-top: 60px;
+    padding: 25px 10px;
+    text-align: center;
+    background: linear-gradient(90deg, #1E3A8A, #6366F1);
+    color: #FFF;
+    font-size: 14px;
+    border-top: 2px solid rgba(255,255,255,0.15);
+    box-shadow: 0 -4px 12px rgba(99,102,241,0.25);
 }
 
-.header-section img {
-  width: 100%;          /* passt sich der Breite an */
-  height: auto;         /* Höhe bleibt proportional */
-  display: block;       /* entfernt kleine Lücken unter dem Bild */
+.footer a {
+    color: #FFEA00;
+    font-weight: bold;
+    text-decoration: none;
 }
-</style>
+
+.footer a:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+.footer .license {
+    margin-top: 5px;
+    font-size: 13px;
+    opacity: 0.85;
+}
