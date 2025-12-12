@@ -35,6 +35,100 @@
 }
 </style>
 
+
+
+
+
+<!-- Dropdown Menü -->
+<nav class="navbar">
+  <ul class="menu">
+    <li><a href="#">Home</a></li>
+    <li class="dropdown">
+      <a href="#">Projects ▼</a>
+      <ul class="dropdown-menu">
+        <li><a href="creey.html">Creey</a></li>
+        <li><a href="snake.html">Snake</a></li>
+        <li><a href="tictactoe.html">Tic Tac Toe</a></li>
+      </ul>
+    </li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+
+<style>
+/* Navbar Basis */
+.navbar {
+  background-color: #1E3A8A;
+  padding: 10px 20px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-flex;
+  gap: 20px;
+}
+
+.menu li {
+  position: relative;
+}
+
+.menu a {
+  color: #FFF;
+  text-decoration: none;
+  padding: 10px 15px;
+  display: inline-block;
+  border-radius: 5px;
+  transition: background 0.3s, color 0.3s;
+}
+
+.menu a:hover {
+  background-color: #6366F1;
+  color: #fff;
+}
+
+/* Dropdown Menü */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #1E3A8A;
+  min-width: 180px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  z-index: 10;
+  flex-direction: column;
+}
+
+.dropdown-menu li a {
+  padding: 10px 15px;
+  text-align: left;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: flex;
+}
+
+/* Optional: kleine Animation */
+.dropdown-menu li a {
+  transition: background 0.2s;
+}
+
+.dropdown-menu li a:hover {
+  background-color: #6366F1;
+}
+</style>
+
+
+
+
+  
 <!-- Intro + Quick Info -->
 <div class="section">
   <h3>👋 Hey, I'm <b>Dimi</b></h3>
