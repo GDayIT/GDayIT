@@ -190,7 +190,14 @@ button:hover {
         
             <button type="submit">Senden</button>
           </form>
-        
+
+
+          <!-- Powered by Text -->
+          <div class="powered-by">
+            Powered by...
+          </div>
+
+            
           <!-- Logos am Fuß -->
           <div class="form-footer" style="margin-top:20px; display:flex; justify-content:center; gap:20px; align-items:center;">
             <a href="https://formspree.io" target="_blank">
@@ -201,6 +208,38 @@ button:hover {
             </a>
           </div>
         </section>
+
+        <style>
+/* Powered by Styling */
+.powered-by {
+  font-size: 28px;          /* größer */
+  font-weight: bold;
+  text-align: center;
+  margin: 30px 0 15px 0;    /* Abstand oben und unten */
+  font-family: 'Segoe UI', sans-serif; /* moderne Schrift */
+  color: #FFEA00;           /* neon-gelber Akzent */
+  letter-spacing: 1px;
+  text-shadow: 0 0 8px #FFEA00, 0 0 16px #6366F1; /* leichtes Glow */
+}
+
+/* Logos Styling */
+.form-footer {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  align-items: center;
+}
+
+.form-footer img {
+  transition: transform 0.3s, filter 0.3s;
+}
+
+.form-footer img:hover {
+  transform: scale(1.1);
+  filter: brightness(1.2);
+}
+</style>
 
     </main>
 
