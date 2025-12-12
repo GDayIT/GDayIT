@@ -1,9 +1,11 @@
 <!-- Cyberpunk Animated Header -->
-<div align="center">
+<div align="center" style="position: relative;">
+  <!-- Hintergrund-Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A,1E3A8A,6366F1&height=260&section=header&text=Dimitrios%20Georgiou&desc=GDayIT%20·%20Dimi%20%7C%20Software%20Developer%20in%20Progress&fontSize=65&animation=fadeIn&fontColor=FFFFFF&descSize=20&fontAlignY=35&descAlignY=55" style="max-width: 100%;" />
 
-  <!-- Dein Logo aus assets -->
-  <img src="assets/TranzparentLogo.png" alt="GDayIT Logo" width="140" style="margin-top:-60px;" />
+  <!-- Dein Logo davor -->
+  <img src="assets/TranzparentLogo.png" alt="GDayIT Logo"
+       style="position: absolute; top: 65%; left: 50%; transform: translate(-120%, -50%); width: 80px;" />
 </div>
 
 <!-- Center Intro -->
