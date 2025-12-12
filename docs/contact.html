@@ -170,20 +170,38 @@ button:hover {
         </section>
 
         <section>
-            <h3>Kontaktformular (optional)</h3>
-            <form action="https://formspree.io/f/yourformid" method="POST">
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required>
-
-                <label for="email">E-Mail:</label>
-                <input type="email" id="email" name="_replyto" required>
-
-                <label for="message">Nachricht:</label>
-                <textarea id="message" name="message" rows="5" required></textarea>
-
-                <button type="submit">Senden</button>
-            </form>
+          <h3>Kontaktformular</h3>
+          
+          <p>Bitte fülle alle Felder korrekt aus, um uns eine Nachricht zu senden.</p>
+        
+          <form action="https://formspree.io/f/abcd1234" method="POST">
+            
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Dein Name" required>
+        
+            <label for="email">E-Mail:</label>
+            <input type="email" id="email" name="email" placeholder="deine@email.de" required>
+        
+            <label for="message">Nachricht:</label>
+            <textarea id="message" name="message" rows="5" placeholder="Deine Nachricht..." required></textarea>
+        
+            <!-- Optional: verstecktes Feld, um Bots zu filtern -->
+            <input type="text" name="_gotcha" style="display:none">
+        
+            <button type="submit">Senden</button>
+          </form>
+        
+          <!-- Logos am Fuß -->
+          <div class="form-footer" style="margin-top:20px; display:flex; justify-content:center; gap:20px; align-items:center;">
+            <a href="https://formspree.io" target="_blank">
+              <img src="https://cdn.jsdelivr.net/gh/formspree/formspree-logo@latest/formspree-logo-black.svg" alt="Formspree Logo" width="100">
+            </a>
+            <a href="https://github.com/GDayIT" target="_blank">
+              <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub Logo" width="50" style="filter: invert(1);">
+            </a>
+          </div>
         </section>
+
     </main>
 
     <footer class="footer">
