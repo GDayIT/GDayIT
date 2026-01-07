@@ -162,14 +162,74 @@
   width="80" title="OWASP ZAP"/>
 
 <!-- Snort - Shield Badge -->
-  <img src="https://img.shields.io/badge/Snort-IDS/IPS-red?style=for-the-badge" width="120" title="Snort IDS/IPS"/>
+  <img src="https://img.shields.io/badge/Suricata/Snort-IDS/IPS-red?style=for-the-badge" width="120" title="Suricata/Snort IDS/IPS"/>
 
   <!-- pfSense - Shield Badge -->
-  <img src="https://img.shields.io/badge/pfSense-Firewall-blue?style=for-the-badge" width="140" title="pfSense Plattform (firewall + IDS/IPS mit snort)"/>
+  <img src="https://img.shields.io/badge/pfSense/opnSense/OpenWrt-Firewall-blue?style=for-the-badge" width="140" title="pfSense/opnSense/OpenWrt Plattform (firewall + IDS/IPS mit Suricata/Snort)"/>
 </div>
 </details>
 
 <br>
+
+
+<!-- IT-Administration -->
+<details open>
+<summary><b>IT-Administrat</b></summary>
+<br>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/color/96/000000/server.png" width="80" title="Server"/>
+  <img src="https://img.icons8.com/color/96/000000/vmware.png" width="80" title="VMware"/>
+  <img src="https://img.shields.io/badge/Cisco-%230289C1.svg?style=for-the-badge&logo=cisco&logoColor=white" width="80" title="Cisco"/>
+  <img src="https://img.icons8.com/color/96/000000/powershell.png" width="80" title="PowerShell"/>
+  <img src="https://cdn.simpleicons.org/cisco/006CB7" width="80" title="Cisco / CCNA"/>
+  <img src="https://img.icons8.com/color/96/000000/proxmox.png" width="80" title="Proxmox"/>
+</div>
+</details>
+<br
+
+
+<!-- Data Analytics -->
+<details open>
+<summary><b>Data Analyst</b></summary>
+<br>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- BI / Reporting -->
+  <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="80" title="Tableau"/>
+  <img src="https://img.icons8.com/color/96/000000/power-bi.png" width="80" title="Power BI"/>
+  
+  <!-- Python Libraries -->
+  <img src="https://img.icons8.com/color/96/000000/pandas.png" width="80" title="Pandas"/>
+  <img src="https://img.icons8.com/color/96/000000/numpy.png" width="80" title="NumPy"/>
+  <img src="https://img.icons8.com/color/96/000000/matplotlib.png" width="80" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="80" title="Seaborn"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="80" title="Scikit‑learn"/>
+  
+  <!-- Cloud / Data Warehousing -->
+  <img src="https://www.pikpng.com/pngl/m/314-3143797_google-big-query-logo-google-bigquery-logo-clipart.png" width="80" title="Google BigQuery"/>
+  <img src="https://img.icons8.com/color/96/000000/snowflake.png" width="80" title="Snowflake"/>
+  
+  <!-- ETL / Workflow -->
+  <img src="./assets/talend_logo_icon_249451.svg" width="80" title="Talend"/>
+  <img src="https://hexmos.com/freedevtools/svg_icons/apacheairflow/apacheairflow-original.svg" width="80" title="Apache Airflow"/>
+</div>
+</details>
+<br/>
+
+
+<!-- KI / Neural Network -->
+<details open>
+<summary><b>KI / Neural Network</b></summary>
+<br>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- AI Core -->
+  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="80" title="Artificial Intelligence"/>
+  <!-- Machine Learning / Deep Learning Frameworks -->
+  <img src="https://img.icons8.com/color/96/000000/tensorflow.png" width="80" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="80" title="PyTorch"/>
+  <img src="https://logo.svgcdn.com/devicon/keras-original.svg" width="80" title="Keras"/>
+</div>
+</details>
+<br/>
 
 <!-- Project Management & Agile -->
 <details open>
